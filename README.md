@@ -3,12 +3,12 @@
 Source code for a one-player Tetris game for Arduino Nano
 
 ## Features
-+ Left and right rotations
-+ Score management
++ Left and right rotations, moving done acceleration by one row + directly to the floor
 + Level and speed management
 + Game mode for next tetromino display
 + Game mode for automatic malus lines
-+ 3 screensavers
++ Score management on each play mode + persistance on the chip's EEPROM
++ 4 screensavers for anti LEDs burning
 
 ## Hardware
 Almost everything is configurable with a little bit of code tweaking :
