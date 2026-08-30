@@ -2,6 +2,8 @@
 
 Source code for a one-player Tetris game for Arduino Nano
 
+![](https://i0.wp.com/lobrico.wordpress.com/wp-content/uploads/2015/08/2016-05-05-15h07m59.jpg?w=600)
+
 ## Features
 + Left and right rotations, moving done acceleration by one row + directly to the floor
 + Level and speed management
@@ -22,6 +24,7 @@ Almost everything is configurable with a little bit of code tweaking :
 
 ## MAME Arcade
 See this code in action when implemented with a custom home-made MAME arcade station !
+
 All the construction details and final results are here : https://lobrico.wordpress.com/2016/05/29/tetris/
 
 ## Tetris game
