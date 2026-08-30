@@ -38,10 +38,11 @@ More informations (standards, rules, ...) on Tetris game :
 + Refactoring, optimizations, above listed features : Pascal Vergneau
 
 
-Fonctionnement des USBs:
-=======================
+## Remarks
 
-Le choix a été fait que
+### Fonctionnement des USBs
+
+Le choix suivant a été fait:
 - l'Arduino est alimenté UNIQUEMENT depuis son entrée USB (et non pas par sa pin VCC)
 - toutes les VCC des périphériques (matrice 6xMAX7219, score MAX7219, boutons, piezo, top backlight) sont connectées sur le 5V de sortie du Nano.
 
